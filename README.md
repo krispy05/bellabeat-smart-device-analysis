@@ -48,7 +48,7 @@ Use the relationship between distance traveled and recorded calorie expenditure 
 
 ## Tableau Dashboard
 
-[View the Bellabeat Tableau Public Dashboard]https://public.tableau.com/app/profile/krish.pravin/viz/tableauanalysis-DASHBOARD/dashboardanalysis
+https://public.tableau.com/app/profile/krish.pravin/viz/tableauanalysis-DASHBOARD/dashboardanalysis
 
 ## Project Structure
 
@@ -61,4 +61,4 @@ Use the relationship between distance traveled and recorded calorie expenditure 
 
 ## Limitations
 
-The analysis is based on observational Fitbit data from a relatively small sample and a limited time period. The relationships identified should not be interpreted as proof of causation.
+The analysis is based on observational Fitbit data from a very small sample and a short time period. The relationships identified should not be interpreted as proof of causation.
