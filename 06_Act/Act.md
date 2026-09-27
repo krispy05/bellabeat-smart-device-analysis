@@ -10,7 +10,7 @@ These insights can help Bellabeat better understand its target audience and deve
 
 ## Recommendations
 
-### 1. Target Lower-Activity Users
+### 1. Target Lower Activity Users
 
 Use activity and sedentary-time insights to develop campaigns encouraging lower-activity users to gradually increase 
 movement and reduce sedentary time.
