@@ -2,13 +2,13 @@
 
 ## Project Overview
 
-This project analyzes Fitbit smart-device usage data to identify consumer behavior patterns and develop marketing insights for Bellabeat, a wellness smart-device company.
+This project analyzes Fitbit smart device usage data to identify consumer behavior patterns and develop marketing insights for Bellabeat a wellness smart-device company.
 
-This project was completed as part of the Google Data Analytics Capstone case study.
+The project was completed as part of the Google Data Analytics Capstone case study.
 
 ## Business Problem
 
-Bellabeat wants to use smart-device data to better understand consumer behavior and develop more targeted marketing strategies to support growth in the wellness smart-device market.
+Bellabeat wants to use smart device data to better understand consumer behavior and develop more targeted marketing strategies to support growth in the smart device market.
 
 ## Business Questions
 
@@ -34,9 +34,9 @@ Bellabeat wants to use smart-device data to better understand consumer behavior 
 
 ## Recommendations
 
-### 1. Target Lower-Activity Users
+### 1. Target Lower Activity Users
 
-Encourage lower-activity users to gradually increase movement and reduce sedentary time.
+Encourage lower activity users to gradually increase movement and reduce sedentary time.
 
 ### 2. Use Activity Timing
 
